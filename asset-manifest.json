@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ts-quiz-app-pwa/static/js/main.71871e3d.js",
+    "index.html": "/ts-quiz-app-pwa/index.html",
+    "main.71871e3d.js.map": "/ts-quiz-app-pwa/static/js/main.71871e3d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.71871e3d.js"
+  ]
+}
