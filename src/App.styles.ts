@@ -1,21 +1,21 @@
 import styled, { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyles = createGlobalStyle`
-    *{
-        box-sizing: border-box;
-        font-family: "Catamaran", sans-serif;
-    }
-    html{
-        height: 100%;
-    }
-    body{
-        background: url('/scenery.jpg');
-        background-size: cover;
-        margin: 0;
-        padding: 0 20px;
-        display: flex;
-        justify-content: center;
-    }
+  *{
+    box-sizing: border-box;
+    font-family: "Catamaran", sans-serif;
+  }
+  html{
+    height: 100%;
+  }
+  body{
+    background: url('/scenery.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+  }
 `;
 
 export const Wrapper = styled.div`
@@ -54,6 +54,6 @@ export const Wrapper = styled.div`
     padding: 0 40px;
   }
   .start {
-      max-width: 200px;
+    max-width: 200px;
   }
 `;

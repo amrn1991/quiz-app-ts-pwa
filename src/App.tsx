@@ -1,7 +1,7 @@
 import React, { useState, Fragment } from 'react';
-import QuestionCard from './components/QuestionCard';
-import { Difficulty, fetchQuestions, QuestionState } from './API';
 import { GlobalStyles, Wrapper } from './App.styles';
+import { Difficulty, fetchQuestions, QuestionState } from './API';
+import QuestionCard from './components/QuestionCard';
 
 const TOTAL_QUESTIONS = 10;
 
