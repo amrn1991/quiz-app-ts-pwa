@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ts-quiz-app-pwa/static/js/main.71871e3d.js",
-    "index.html": "/ts-quiz-app-pwa/index.html",
-    "main.71871e3d.js.map": "/ts-quiz-app-pwa/static/js/main.71871e3d.js.map"
+    "main.js": "/quiz-app-ts-pwa/static/js/main.1d9a661c.js",
+    "index.html": "/quiz-app-ts-pwa/index.html",
+    "main.1d9a661c.js.map": "/quiz-app-ts-pwa/static/js/main.1d9a661c.js.map"
   },
   "entrypoints": [
-    "static/js/main.71871e3d.js"
+    "static/js/main.1d9a661c.js"
   ]
 }
