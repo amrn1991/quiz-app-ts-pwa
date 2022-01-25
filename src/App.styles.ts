@@ -10,7 +10,8 @@ export const GlobalStyles = createGlobalStyle`
   }
   body{
     // background: url('/scenery.jpg');
-    background: url('https://amrn1991.github.io/quiz-app-ts-pwa/scenery.jpg');
+    /* background: url('https://amrn1991.github.io/quiz-app-ts-pwa/scenery.webp'); */
+    background: url("./scenery.webp");
     background-size: cover;
     margin: 0;
     padding: 0 20px;
