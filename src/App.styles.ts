@@ -9,7 +9,7 @@ export const GlobalStyles = createGlobalStyle`
     height: 100%;
   }
   body{
-    background: url("%PUBLIC_URL%/scenery.webp");
+    background: url("/scenery.webp");
     background-size: cover;
     margin: 0;
     padding: 0 20px;
