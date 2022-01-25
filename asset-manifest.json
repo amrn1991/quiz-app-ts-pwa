@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/quiz-app-ts-pwa/static/js/main.2115ad03.js",
+    "main.js": "/quiz-app-ts-pwa/static/js/main.42c24772.js",
     "service-worker.js": "/quiz-app-ts-pwa/service-worker.js",
     "index.html": "/quiz-app-ts-pwa/index.html",
-    "main.2115ad03.js.map": "/quiz-app-ts-pwa/static/js/main.2115ad03.js.map"
+    "main.42c24772.js.map": "/quiz-app-ts-pwa/static/js/main.42c24772.js.map"
   },
   "entrypoints": [
-    "static/js/main.2115ad03.js"
+    "static/js/main.42c24772.js"
   ]
 }
